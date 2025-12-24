@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -55,31 +55,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Thektonic&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=c9d1d9&title_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thektonic&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58A6FF&text_color=c9d1d9&title_color=58A6FF" alt="GitHub Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thektonic&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thektonic&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thektonic&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58A6FF" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Thektonic&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -89,23 +79,7 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/Thektonic/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thektonic&repo=project-1&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58A6FF&icon_color=58A6FF" alt="Featured Project 1" />
-  </a>
-
-  <a href="https://github.com/Thektonic/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thektonic&repo=project-2&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58A6FF&icon_color=58A6FF" alt="Featured Project 2" />
-  </a>
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
